@@ -23,6 +23,8 @@ This project aims to predict close values using machine learning models based on
 
 ## Datasets
 
+The Dataset is a CRM sourced from Kaggle and includes:
+
 1. **Accounts**: Contains information about the company such as sector, year established, revenue, employees, and office location.
 2. **Products**: Contains details about the product and sales price.
 3. **Sales Pipeline**: Contains sales transactions including sales agent, product, account, deal stage, engage date, close date, and close value.
