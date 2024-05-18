@@ -23,7 +23,7 @@ This project aims to predict close values using machine learning models based on
 
 ## Datasets
 
-The Dataset is a CRM sourced from Kaggle and includes:
+The Dataset is a CRM database sourced from Kaggle and includes:
 
 1. **Accounts**: Contains information about the company such as sector, year established, revenue, employees, and office location.
 2. **Products**: Contains details about the product and sales price.
