@@ -109,25 +109,6 @@ The RandomForest model achieved good performance in predicting `close_value` wit
 - Feature Importances
 - Actual vs. Predicted Close Value
 
-## How to Run
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/predictive-sales-analytics.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd predictive-sales-analytics
-    ```
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-4. Run the project:
-    ```sh
-    python main.py
-    ```
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
