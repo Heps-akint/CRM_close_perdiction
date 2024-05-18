@@ -47,12 +47,12 @@ The datasets were merged based on the following keys:
 ### Correlation Matrix
 The correlation matrix provides insights into the relationships between various features.
 
-![Correlation Matrix](path_to_image/correlation_matrix.png)
+![image](https://github.com/Heps-akint/CRM_close_perdiction/assets/154083959/213f1545-80e4-4b59-8ed5-0ecf6c40998d)
 
 ### Close Value Distribution
 The distribution of the `close_value` shows a right-skewed pattern indicating that most deals close at lower values, with a few high-value deals.
 
-![Close Value Distribution](path_to_image/close_value_distribution.png)
+![image](https://github.com/Heps-akint/CRM_close_perdiction/assets/154083959/c779b7b6-c05c-49c9-8082-4d8484a3721c)
 
 ## Feature Engineering
 
@@ -76,13 +76,13 @@ A RandomForest Regressor was used to predict `close_value`.
 
 The RandomForest model identified the most important features for predicting sales outcomes.
 
-![Feature Importances](path_to_image/feature_importances.png)
+![image](https://github.com/Heps-akint/CRM_close_perdiction/assets/154083959/2e2cad57-34b5-46b1-8231-1f2e4998a3e3)
 
 ### Actual vs. Predicted Close Value
 
 The scatter plot shows the relationship between actual and predicted close values, indicating good model performance.
 
-![Actual vs. Predicted Close Value](path_to_image/actual_vs_predicted.png)
+![image](https://github.com/Heps-akint/CRM_close_perdiction/assets/154083959/1c732949-adfc-4a06-9473-927e20eb63e4)
 
 ## Model Interpretation
 
