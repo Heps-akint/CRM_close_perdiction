@@ -130,10 +130,4 @@ The RandomForest model achieved good performance in predicting `close_value` wit
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 By following the steps outlined in this project, you can replicate the analysis, customize it for different datasets, and use the findings to drive data-driven decisions in sales management.
